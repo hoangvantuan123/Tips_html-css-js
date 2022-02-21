@@ -3,7 +3,7 @@
 #### Contents
 
 - [Cursors](#cursors)
-- [Scroll Snap](#scroll_snap)
+- [Scroll Snap](#scrollsnap)
 
 ## Cursors
 
@@ -17,10 +17,18 @@ div {
 
 [Link to Codepen](https://codepen.io/denic/pen/bGVpOPj)
 
-## scroll_snap
+## scrollsnap
 
 ```css
 
 .container {
-    display:flex
+    display:flex;
+    overflow:auto;
+    scroll-snap-type:x mandatory;
 }
+.container> .item {
+
+    min-width:100%;
+    scroll-snap-align:start;
+}
+```
