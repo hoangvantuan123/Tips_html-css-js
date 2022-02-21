@@ -3,11 +3,11 @@
 #### Contents
 
 - [Cursors](#cursors)
-- [Scroll Snap](#scrollsnap)
+- [Scroll Snap](#Scroll-Snap)
 
 ## Cursors
 
-Did you know that you can use your own image, or even emoji as a cursor?
+Tùy chọn thay đổi cursors có thể sử dụng hình ảnh của riêng bạn , hoặc thậm
 
 ```css
 div {
@@ -17,8 +17,8 @@ div {
 
 [Link to Codepen](https://codepen.io/denic/pen/bGVpOPj)
 
-## scrollsnap
-
+## Scroll Snap
+Scroll Snap là một thuộc tính CSS giúp tạo băng chuyền như ví dụ sau :
 ```css
 
 .container {
