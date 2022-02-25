@@ -6,6 +6,7 @@
 - [Scroll Snap](#Scroll-Snap)
 - [Responsive Flex Wrap](#Responsive-Flex-Wrap)
 - [Grid-repeat-auto-minmax](#Grid-repeat-auto-minmax)
+- [Drop Caps](#Drop-Caps)
 
 ## Cursors
 
@@ -65,5 +66,17 @@ Lưới trong CSS tự động
 }
 
 ```
+
+## Drop-Caps
+
+Chữ to ở đầu dòng
+```css
+.text::first-letter{
+   font-size: 3rem;
+   float: left;
+   margin-right:10px;
+}
+```
+
 
 
