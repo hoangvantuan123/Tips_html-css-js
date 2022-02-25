@@ -1,0 +1,5 @@
+.has::first-letter{
+   font-size: 3rem;
+   float: left;
+   margin-right:10px;
+}
