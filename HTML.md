@@ -17,4 +17,8 @@ Ví dụ: content = "3000"
 
 ## Change the color of mobile browser header
 
-Đoạn mã này sẽ giúp bạn thay đổi được màu color
+Đoạn mã này sẽ giúp bạn thay đổi được màu của tiêu đề trình duyệt trên thiết bị di động.
+
+```html
+    <meta name="thêm-color" content="#ffffff"/>
+```
