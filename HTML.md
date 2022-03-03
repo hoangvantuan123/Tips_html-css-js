@@ -3,7 +3,7 @@
 #### Contents
 
 - [Live Reload](#Live-Reload)
-
+- [Change the color of mobile browser header](#Change-the-color-of-mobile-browser-header)
 
 
 
@@ -14,3 +14,7 @@ Ví dụ: content = "3000"
 ```html
     <meta http-equiv="refresh" content="value(seconds)">
 ```
+
+## Change the color of mobile browser header
+
+Đoạn mã này sẽ giúp bạn thay đổi được màu color
