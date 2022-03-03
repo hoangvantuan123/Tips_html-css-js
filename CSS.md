@@ -2,11 +2,44 @@
 
 #### Contents
 
+- [Reponsive Screen Sizes](#Responsive-Screen-Sizes)
 - [Cursors](#cursors)
 - [Scroll Snap](#Scroll-Snap)
 - [Responsive Flex Wrap](#Responsive-Flex-Wrap)
 - [Grid-repeat-auto-minmax](#Grid-repeat-auto-minmax)
 - [Drop Caps](#Drop-Caps)
+
+
+
+
+
+## Responsive Screen Sizes
+Một thành phần chính trong thiết kế đáp ứng tạo ra một trải nghiệm phù hợp.
+
+```css
+/*Mobile*/
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Tablet */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Laptop */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Large Screen */
+@media only screen and (max-width: 1200px) {
+
+}
+```
+Bạn viết tham khảo :
+
+[Link](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ## Cursors
 
@@ -77,6 +110,7 @@ Chữ to ở đầu dòng
    margin-right:10px;
 }
 ```
+
 
 
 
