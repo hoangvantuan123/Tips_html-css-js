@@ -1,0 +1,7 @@
+1. [link 1](https://www.codementor.io/projects/web/build-a-custom-google-maps-theme-bf8levr6eg)
+2. [link 2](https://markodenic.com/free-web-development-resources/)
+3. [link 3](https://github.com/bradtraversy/design-resources-for-developers)
+4. [link 4](https://ionic.io/ionicons/usage)
+5. [link 5](https://markodenic.com/css-generators/)
+6. [link 6](https://tympanus.net/codrops/collective/collective-703/)
+7. [link 7](https://echarts.apache.org/examples/en/editor.html?c=line-race)
